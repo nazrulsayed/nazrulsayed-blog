@@ -1,5 +1,5 @@
 ---
-title: "Top 30+ Best E-commerce Website Admin Panel Templates For 2020"
+title: "শওকত ভাই "
 date: 2019-05-12T12:14:34+06:00
 image: "images/post/post-1.jpg"
 description: "This is meta description."
@@ -7,41 +7,20 @@ categories: ["article"]
 draft: false
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+বঙ্গবন্ধুর চেয়ে বছর দুয়েকের বড়, ’শওকত ভাই’ বলে ডাকতেন। গেন্ডারিয়ার পোলা, জগন্নাথ কলেজের ছাত্র। ঢাকা বিশ্ববিদ্যালয়ে ভর্তি হয়েও রাজনৈতিক ব্যস্ততায় পড়ালেখা করতে পারেননি।
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+দেশভাগের আগে থেকেই মোগলটুলির ১৫০ নম্বর বাড়িতে ছিলো মুসলিম লীগের কর্মীসভা। যার তত্ত্বাবধায়ক ছিলেন তিনি। বাড়িভাড়া দেওয়া থেকে শুরু করে যাবতীয় খরচ মেটাতেন, তরুণদের সংগঠিত করতেন। দেশভাগের পর ওপার বাংলা থেকে তৎকালের ক্যারিশমাটিক তরুণ রাজনীতিবিদ আবুল হাশিম, শামসুল হক, আতাউর রহমান, অলি আহাদ, ফজলুল কাদের চৌধুরী, মোহাম্মদ তোয়াহা প্রমুখেরা এপার বাংলায় এলে ১৫০ নম্বর মোগলটুলির কর্মীসভা মুখর হয়ে ওঠে শওকত আলীর তত্ত্বাবধানে। শেখ মুজিবের জন্য ছেড়ে দেন নিজের কামরাটি।
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+সোহরাওয়ার্দী তখনো ভারত ছাড়েননি, একটি মামলা পরিচালনার কাজে ঢাকায় এলে শওকত ছুটে যান তাঁর কাছে। মুসলিম লীগকে দিয়ে চলবে না, নতুন রাজনৈতিক দল লাগবে... কিন্তু সোহরাওয়ার্দী তখন বাংলার নেতৃত্ব নিয়ে তেমন চিন্তিত না। তাঁর চিন্তায় গোটা পাকিস্তান। ওদিকে বাকিরা সকলেই তরুণ, মুসলিম লীগের বিকল্প হিসেবে নতুন শক্তিশালী একটি রাজনৈতিক দলের নেতৃত্ব দেওয়ার মতো কেউ নেই।
 
-> Dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+১৯৪৯ সালে আসামের ধুবড়ী কারাগার থেকে ছাড়া পান আসাম মুসলিম লীগের সভাপতি ভাসানী। ঢাকায় এসে ওঠেন আমজাদ আলী খানের বাসায়। খবর পেয়ে শওকত আলী ছুটে যান ভাসানীর কাছে। অনুরোধ করে ধরে আনেন ১৫০ মোগলটুলিতে। রাজী করান মুসলিম লীগের বিপরীতে শক্তিশালী একটি রাজনৈতিক দল গড়তে। ভাসানীকে সভাপতি, ইয়ার মুহম্মদকে সেক্রেটারি আর খন্দকার মুশতাককে দপ্তর সম্পাদক করে সাংগঠনিক কমিটি বানান। সে অনুযায়ী ২৩ জুন রোজ গার্ডেনে সম্মেলন ডাকা হয়, গঠিত হয় পূর্ব পাকিস্তান আওয়ামী মুসলিম লীগ। ভাসানী সভাপতি, শামসুল হক সেক্রেটারি। শেখ মুজিব তখন কারাগারে। তাঁকে করা হয় যুগ্ম সাধারণ সম্পাদক। উল্লেখ্য খোন্দকার মোশতাকও একই পদে। সোহরাওয়ার্দীকে করা হয় নিখিল পাকিস্তান আওয়ামী মুসলিম লীগের সভাপতি।
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+এই সবকিছু সংগঠিত করেও শওকত আলী নিজে কোনো গুরুত্বপূর্ণ পদে নেই, ছিলেন না কখনোই, কোনোদিনই।
+
+ভাষা আন্দোলন সংগঠিত করেছিলো যে তিনটি সংগঠন, শওকত আলীই একমাত্র ব্যাক্তি যিনি এই তিনটি সংগঠনেরই গুরুত্বপূর্ণ সংগঠক ছিলেন। কিন্তু তবু আমরা ভাষা আন্দোলনের কথা যখন বলি, শওকত আলীর নাম আমাদের মনে আসে না। যেমনিভাবে মনে আসে না আওয়ামী লীগের প্রতিষ্ঠা বার্ষিকীতেও। অথচ আওয়ামী লীগ গঠনের পেছনে শওকত আলীর ছিলো ভীষণ গুরুত্বপূর্ণ ভূমিকা।
+
+ধানমন্ডি ৪/এ রোডটির নাম রাখা হয়েছে শওকত আলীর নামে। যার আবার ফলক উন্মোচন করেছেন বিএনপির সাদেক হোসেন খোকা। নামফলকের কোথাও আওয়ামী লীগের নামগন্ধ নেই, শওকত আলী সেখানে শুধুই একজন ভাষা সৈনিক।
+
+১৯৭৫ সালের ১৫ আগস্ট সপরিবারে জাতির পিতা শেখ মুজিবকে হত্যা করা হয় নির্মমভাবে। এই খবর পেয়ে অনেকে উল্লসিত হন, অনেকে ভয় পান, অনেকে আতঙ্কে পালিয়ে যান, অনেকে মুষড়ে পরেন, কান্নায় ভেঙ্গে পরেন, অনেকে প্রতিবাদী হয়ে অস্ত্র তুলে নেন। কিন্তু সাড়ে সাত কোটি বাঙালির মধ্যে একজন মাত্র মানুষ বঙ্গবন্ধুর এই মর্মান্তিক খবর শুনে হার্টফেইল করেন, তিনি শওকত আলী। হাসপাতালে নেওয়া হয়, কিন্তু বাঁচানো যায়নি, তিনদিন লড়াই করে অবশেষে ১৮ আগস্ট মৃত্যু হয় শওকত আলীর!
+
+আজ ২৩ জুন, আওয়ামী লীগের ৭১ তম প্রতীষ্ঠা বার্ষিকীতে হারিয়ে যাওয়া মানুষ শওকত আলীর প্রতি অশেষ শ্রদ্ধা...

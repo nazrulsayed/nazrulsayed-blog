@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://nazrulsayed.com/"
-title = "Nebula | Hugo blog template"
+title = "Nazrul Sayed | Author , Nidhir Baba"
 theme = "nebula"
 languageName = "En"
 languageCode = "en-us"
@@ -45,10 +45,6 @@ name = "Contact"
 URL = "contact"
 weight = 3
 
-[[menu.main]]
-name = "Privacy Policy"
-URL = "privacy-policy"
-weight = 4
 
 
 #################### default parameters ################################
@@ -59,7 +55,7 @@ author = "Themefisher"
 # sidebar portrait
 portrait = "images/author.png"
 # sidebar bio
-bio = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Egestas donec nullam cras vitae facilisis vehicula in. Convallis vel, justo sem nunc, lorem amet rhoncus."
+bio = "নজরুল সৈয়দ ( লেখক এবং নিধির বাবা ) "
 # copyright
 copyright = "Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)"
 
@@ -83,14 +79,4 @@ link = "#"
 [[params.social]]
 title = "instagram"
 icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-title = "github"
-icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-title = "linkedin"
-icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
 link = "#"
