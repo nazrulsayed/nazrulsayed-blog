@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://demo.themefisher.com/nebula-hugo/"
+baseURL = "https://nazrulsayed.com/"
 title = "Nebula | Hugo blog template"
 theme = "nebula"
 languageName = "En"
