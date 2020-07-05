@@ -1,5 +1,5 @@
 ---
-title: 'নজরুল সৈয়দ ( লেখক , চিন্তাবাদি এবং নিধির বাবা ) '
+title: 'নজরুল সৈয়দ '
 image: images/author-large.jpg
 description: This is meta description.
 education:
@@ -22,4 +22,4 @@ skill:
     amet. Amet
 
 ---
-লেখকের বক্তব্য । 
+লেখকের বক্তব্য ।
