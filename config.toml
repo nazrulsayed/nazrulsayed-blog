@@ -50,10 +50,10 @@ icon = "ti-facebook"
 link = "https://www.facebook.com/%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%81%E0%A6%B2-%E0%A6%B8%E0%A7%88%E0%A7%9F%E0%A6%A6-Nazrul-Sayed-103048231481002/?modal=admin_todo_tour"
 title = "facebook"
 [[params.social]]
+icon = "ti-instagram"
+link = "https://www.instagram.com/nazrul_sayed/"
+title = "instagram"
+[[params.social]]
 icon = "ti-twitter-alt"
 link = "#"
 title = "twitter"
-[[params.social]]
-icon = "ti-instagram"
-link = "#"
-title = "instagram"
