@@ -1,82 +1,55 @@
-######################## default configuration ####################
 baseURL = "https://nazrulsayed.com/"
-title = "Nazrul Sayed | Author , Nidhir Baba"
-theme = "nebula"
-languageName = "En"
+disqusShortname = ""
 languageCode = "en-us"
-# disqus short name
-disqusShortname = "" # get your shortname form here : https://disqus.com
-
-############################# output ##############################
-[outputs]
-home = [ "HTML", "RSS"]
-
-# render unsafe html
+languageName = "En"
+theme = "nebula"
+title = "Nazrul Sayed | Author , Nidhir Baba"
 [markup.goldmark.renderer]
 unsafe = true
-
-############################# Plugins ##############################
-# CSS Plugins
+[[menu.main]]
+URL = "/"
+name = "Home"
+weight = 1
+[[menu.main]]
+URL = "about"
+name = "About"
+weight = 2
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 3
+[outputs]
+home = ["HTML", "RSS"]
+[params]
+author = "Themefisher"
+bio = "নজরুল সৈয়দ"
+copyright = "Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)"
+description = "This is meta description"
+portrait = "images/author.png"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
 link = "plugins/themify-icons/themify-icons.css"
-
-# JS Plugins
 [[params.plugins.js]]
 link = "plugins/jQuery/jquery.min.js"
 [[params.plugins.js]]
 link = "plugins/bootstrap/bootstrap.min.js"
-
-
-################################ menu ##################################
-[[menu.main]]
-name = "Home"
-URL = "/"
-weight = 1
-
-[[menu.main]]
-name = "About"
-URL = "about"
-weight = 2
-
-[[menu.main]]
-name = "Contact"
-URL = "contact"
-weight = 3
-
-
-
-#################### default parameters ################################
-[params]
-# Meta data
-description = "This is meta description"
-author = "Themefisher"
-# sidebar portrait
-portrait = "images/author.png"
-# sidebar bio
-bio = "নজরুল সৈয়দ ( লেখক এবং নিধির বাবা ) "
-# copyright
-copyright = "Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)"
-
-# Preloader
 [params.preloader]
 enable = true
-preloader = "" # use jpg, png, svg or gif format.
-
-
-############################# social site ########################
+preloader = ""
 [[params.social]]
+icon = "ti-youtube"
+link = "https://www.youtube.com/channel/UCt7e1hDwjjt_psEIfS8wOMg?view_as=subscriber"
+title = "youtube"
+[[params.social]]
+icon = "ti-facebook"
+link = "https://www.facebook.com/%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%81%E0%A6%B2-%E0%A6%B8%E0%A7%88%E0%A7%9F%E0%A6%A6-Nazrul-Sayed-103048231481002/?modal=admin_todo_tour"
 title = "facebook"
-icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
-
 [[params.social]]
+icon = "ti-twitter-alt"
+link = "#"
 title = "twitter"
-icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "#"
-
 [[params.social]]
-title = "instagram"
-icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
+icon = "ti-instagram"
 link = "#"
+title = "instagram"
