@@ -8,6 +8,10 @@ title = "Nazrul Sayed | Author , Nidhir Baba"
 unsafe = true
 [[menu.main]]
 URL = "/"
+name = "Literature"
+weight = "1"
+[[menu.main]]
+URL = "/"
 name = "Home"
 weight = 1
 [[menu.main]]
