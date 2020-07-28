@@ -19,6 +19,7 @@ fields:
   label: categories
 pages:
 - content/post/.......md
+- content/post/....md
 - content/post/অবাক-বই-পাঠ.md
 - content/post/অ্যাকশন-রিপ্লে.md
 - content/post/আপন-হতে-বাহির-হয়ে-বাইরে-দাঁড়া.md
