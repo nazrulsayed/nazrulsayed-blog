@@ -17,3 +17,5 @@ fields:
 - type: text
   name: description
   label: meta description
+pages:
+- content/post/করোনাক্রান্তি-২.md
