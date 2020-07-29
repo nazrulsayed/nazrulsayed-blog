@@ -23,4 +23,8 @@ $(window).on('load', function () {
 		$("#dn").prop("checked", true);
 	}
 
+	// lazy load image
+	const observer = lozad(); // lazy loads elements with default selector as ".lozad"
+	observer.observe();
+
 })(jQuery);

@@ -15,7 +15,7 @@
   {{ range (where .Pages "Section" "post") }}
   <div class="col-sm-6 mb-4">
     <div class="card">
-      {{if .Params.Image}}<img src="{{ .Params.Image | absURL }}" alt="{{ .Title }}" class="card-img-top">{{ end }}
+      {{if .Params.Image}}<img data-src="{{ .Params.Image | absURL }}" alt="{{ .Title }}" class="card-img-top lozad">{{ end }}
       <div class="card-body">
         <h4 class="h5 mb-3 {{delimit .Params.categories ` `}}"><a href="{{ .Permalink }}"
             class="post-title">{{ .Title }}</a></h4>
