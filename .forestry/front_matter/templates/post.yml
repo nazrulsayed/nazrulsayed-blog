@@ -2,18 +2,18 @@
 label: Post
 hide_body: false
 fields:
-- type: list
-  name: categories
-  label: categories
-- type: datetime
-  name: date
-  label: date
-- type: text
-  name: description
-  label: description
-- type: file
-  name: image
-  label: image
 - type: text
   name: title
   label: title
+- type: file
+  name: image
+  label: image
+- type: datetime
+  name: date
+  label: date
+- type: list
+  name: categories
+  label: categories
+- type: text
+  name: description
+  label: meta description
