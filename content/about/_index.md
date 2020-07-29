@@ -2,20 +2,10 @@
 title: 'নজরুল সৈয়দ '
 image: images/author-large.jpg
 description: This is meta description.
-education:
-- degree: MSc in Research Methodology
-  content: September 2000 - May 2004 <br> University Of California
-- degree: BSC Eng Electronic Engineering
-  content: September 2000 - May 2004 <br> University Of California
-- degree: BSC Eng Electronic Engineering
-  content: September 2000 - May 2004 <br> University Of California
-- degree: MSc in Research Methodology
-  content: September 2000 - May 2004 <br> University Of California
+education: []
 skill:
-- name: Delegat
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum ante
-    elit laoreet integer eu purus. Congue integer fermentum pharetra, ac ut mattis
-    amet. Amet
+- name: লেখা
+  content: যে কোনো ধরণের লেখালেখি
 - name: Motivate
   content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum ante
     elit laoreet integer eu purus. Congue integer fermentum pharetra, ac ut mattis
