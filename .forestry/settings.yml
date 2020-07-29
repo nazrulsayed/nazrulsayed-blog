@@ -9,6 +9,8 @@ sections:
   label: Post
   create: documents
   match: "*"
+  templates:
+  - post
 - type: document
   path: content/about/_index.md
   label: About
