@@ -317,3 +317,17 @@ textarea.form-control {
     }
   }
 }
+
+.block-content{
+  position: relative;
+  &::before{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-color: transparent;
+    content: "";
+    top: 0;
+    left: 0;
+    z-index: 1;
+  }
+}

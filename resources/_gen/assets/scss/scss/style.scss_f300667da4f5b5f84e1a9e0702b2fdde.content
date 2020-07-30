@@ -346,6 +346,18 @@ textarea.form-control {
       fill: #000;
       transition: .2s ease; }
 
+.block-content {
+  position: relative; }
+  .block-content::before {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-color: transparent;
+    content: "";
+    top: 0;
+    left: 0;
+    z-index: 1; }
+
 body.light .post-title {
   color: #666666; }
   body.light .post-title:hover {

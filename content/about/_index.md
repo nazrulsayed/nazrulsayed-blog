@@ -2,7 +2,7 @@
 title: 'নজরুল সৈয়দ '
 image: images/author-large.jpg
 description: This is meta description.
-education: []
+skill_title : "Some Skills Which I Owns"
 skill:
 - name: লেখা
   content: যে কোনো ধরণের লেখালেখি
