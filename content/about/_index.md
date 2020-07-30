@@ -1,6 +1,6 @@
 ---
-title: 'নজরুল সৈয়দ'
-image: ""
+title: নজরুল সৈয়দ
+image: "/images/dsc09945.JPG"
 description: This is meta description.
 skill_title: জীবিকা এবং জীবনের প্রয়োজনে...
 skill:
