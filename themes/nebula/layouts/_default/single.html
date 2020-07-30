@@ -5,7 +5,7 @@
   <img class="img-fluid w-100 mb-4" src="{{ .Params.image | absURL }}" alt="{{ .Title }}">
   {{ end }}
   <h1 class="mb-4">{{ .Title }}</h1>
-  <div class="content block-content">{{.Content}}</div>
+  <div class="content lock-content">{{.Content}}</div>
 
   <!-- comments -->
   {{ if .Site.DisqusShortname }}

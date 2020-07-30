@@ -150,6 +150,8 @@ body {
       border-color: #D3D3D3; }
     body.light .form-group label {
       color: #666666; }
+    body.light .counterimg {
+      filter: invert(0); }
 
 ::selection {
   background: #0fff07;
@@ -346,9 +348,9 @@ textarea.form-control {
       fill: #000;
       transition: .2s ease; }
 
-.block-content {
+.lock-content {
   position: relative; }
-  .block-content::before {
+  .lock-content::before {
     position: absolute;
     height: 100%;
     width: 100%;
@@ -357,6 +359,16 @@ textarea.form-control {
     top: 0;
     left: 0;
     z-index: 1; }
+
+.counterimg {
+  filter: invert(1);
+  opacity: .5;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  height: 80px; }
+  .counterimg:hover {
+    opacity: 1; }
 
 body.light .post-title {
   color: #666666; }

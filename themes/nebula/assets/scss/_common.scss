@@ -44,6 +44,9 @@ body {
         color: $day-text-color;
       }
     }
+    .counterimg{
+      filter: invert(0);
+    }
   }
 }
 
@@ -318,7 +321,7 @@ textarea.form-control {
   }
 }
 
-.block-content{
+.lock-content{
   position: relative;
   &::before{
     position: absolute;
@@ -329,5 +332,17 @@ textarea.form-control {
     top: 0;
     left: 0;
     z-index: 1;
+  }
+}
+
+.counterimg{
+  filter: invert(1);
+  opacity: .5;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  height: 80px;
+  &:hover{
+    opacity: 1;
   }
 }
