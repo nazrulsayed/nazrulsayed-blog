@@ -345,4 +345,7 @@ textarea.form-control {
   &:hover{
     opacity: 1;
   }
+  @include tablet {
+    display: none;
+  }
 }
