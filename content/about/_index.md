@@ -1,6 +1,6 @@
 ---
-title: 'নজরুল সৈয়দ '
-image: images/author-large.jpg
+title: 'নজরুল সৈয়দ'
+image: ""
 description: This is meta description.
 skill_title : "Some Skills Which I Owns"
 skill:
