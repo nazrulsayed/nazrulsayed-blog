@@ -3,7 +3,7 @@ disqusShortname = ""
 languageCode = "en-us"
 languageName = "En"
 theme = "nebula"
-title = "Nazrul Sayed | Author , Nidhir Baba"
+title = "Nazrul Sayed | Author"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
