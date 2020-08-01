@@ -1,6 +1,6 @@
 ---
 title: নজরুল সৈয়দ
-image: "/images/dsc09945.JPG"
+image: "/images/author.png"
 description: This is meta description.
 skill_title: জীবিকা এবং জীবনের প্রয়োজনে...
 skill:
