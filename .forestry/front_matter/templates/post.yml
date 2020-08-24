@@ -18,6 +18,7 @@ fields:
   name: description
   label: meta description
 pages:
+- content/post/....md
 - content/post/একটি-পতাকার-জন্ম.md
 - content/post/করোনাক্রান্তি-২.md
 - content/post/কিশোর-কুমার-দাস-যেতে-পারেন-কিন্তু-কেন-যাবেন.md
