@@ -1,5 +1,6 @@
 {{ define "main" }}
 
+{{ $.Scratch.Set "where" site.RegularPages }}
 {{ partial "default-list.html" . }}
 
 {{ end }}

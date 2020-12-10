@@ -5,8 +5,13 @@
   <img class="img-fluid w-100 mb-4" src="{{ .Params.image | absURL }}" alt="{{ .Title }}">
   {{ end }}
   <h1 class="mb-4">{{ .Title }}</h1>
+  <div class="mb-5">{{ with .Params.Categories }}
+    <i class="ti-folder mr-2 text-primary"></i>
+    {{ range $i,$p:= . }}{{if ne $i 0}}, {{end}}<a
+      href="{{ `categories/` | relLangURL }}{{ . | urlize }}">{{ . | humanize }}</a>
+    {{ end }}
+    {{ end }}</div>
   <div class="content lock-content">{{.Content}}</div>
-
   <!-- comments -->
   {{ if .Site.DisqusShortname }}
   <div class="mt-5">

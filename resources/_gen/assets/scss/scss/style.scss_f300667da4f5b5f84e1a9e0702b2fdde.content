@@ -369,7 +369,9 @@ textarea.form-control {
   height: 80px; }
   .counterimg:hover {
     opacity: 1; }
-
+  @media (max-width: 767px) {
+    .counterimg {
+      display: none; } }
 body.light .post-title {
   color: #666666; }
   body.light .post-title:hover {

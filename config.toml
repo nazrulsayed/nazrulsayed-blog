@@ -8,27 +8,25 @@ title = "Nazrul Sayed | Author"
 unsafe = true
 [[menu.main]]
 URL = "/"
-name = "Literature"
+name = "সাহিত্য"
 weight = "1"
 [[menu.main]]
-URL = "/"
-name = "Home"
-weight = 1
-[[menu.main]]
 URL = "about"
-name = "About"
-weight = 2
+name = "আমার সম্বন্ধে"
+weight = 3
 [[menu.main]]
 URL = "contact"
-name = "Contact"
-weight = 3
-[outputs]
-home = ["HTML", "RSS"]
+name = "যোগাযোগ"
+weight = 4
+[[menu.main]]
+URL = "shop"
+name = "বই সমূহ"
+weight = 5
 [params]
 author = "Themefisher"
-bio = "নজরুল সৈয়দ "
+bio = "নজরুল সৈয়দ"
 contact_form_action = "https://formspree.io/nazruuul.id@gmail.com"
-copyright = "Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Designed By [Themefisher](https://themefisher.com/) Developed By [Gethugothemes](https://gethugothemes.com/)"
 description = "This is meta description"
 portrait = "/images/author.png"
 [[params.plugins.css]]
