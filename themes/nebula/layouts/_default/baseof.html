@@ -3,12 +3,12 @@
 {{- partial "head.html" . -}}
 
 <body>
-	{{- partial "preloader.html" . -}}
+	{{- partialCached "preloader.html" . -}}
 	<section>
 		<div class="container-fluid">
 			<div class="row justify-content-around">
 				<div class="col-md-5 col-lg-4 col-xl-3">
-					{{ partial "sidebar.html" . }}
+					{{ partialCached "sidebar.html" . }}
 				</div>
 				<div class="col-md-7 col-xl-8 position-relative">
 					{{- block "main" . }}{{- end }}
@@ -17,7 +17,7 @@
 			</div>
 		</div>
 	</section>
-	{{- partial "footer.html" . -}}
+	{{- partialCached "footer.html" . -}}
 </body>
 
 </html>
