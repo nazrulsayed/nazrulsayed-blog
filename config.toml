@@ -1,5 +1,5 @@
 baseURL = "https://nazrulsayed.com/"
-disqusShortname = ""
+disqusShortname = "themefisher-template"
 languageCode = "en-us"
 languageName = "En"
 theme = "nebula"

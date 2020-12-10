@@ -12,6 +12,7 @@
     {{ end }}
     {{ end }}</div>
   <div class="content lock-content">{{.Content}}</div>
+  {{ partial "share.html" . }}
   <!-- comments -->
   {{ if .Site.DisqusShortname }}
   <div class="mt-5">

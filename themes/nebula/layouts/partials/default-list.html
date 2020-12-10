@@ -13,7 +13,7 @@
 
 <div class="row">
   {{ range (where ($.Scratch.Get "where") "Section" "post") }}
-  <div class="col-sm-6 mb-4">
+  <div class="col-sm-6 col-xl-4 mb-4">
     <div class="card">
       {{if .Params.Image}}<img data-src="{{ .Params.Image | absURL }}" alt="{{ .Title }}" class="card-img-top lozad">{{ end }}
       <div class="card-body">
