@@ -6,8 +6,8 @@
 {{ range (where .Pages "Section" "post") }}
 {{ if (eq ($.Scratch.Get "count") 1) }}
 {{ $.Scratch.Set "count" 0 }}
-<div class="sticky-top bg-black d-flex justify-content-between align-items-center">
-  <h3 class="h4 py-4">Showing post from {{ .Date.Format "2006" }}</h3>
+<div class="sticky-top bg-black d-flex flex-column flex-md-row justify-content-between align-items-center py-4">
+  <h3 class="h4">Showing post from {{ .Date.Format "2006" }}</h3>
 
   {{ if isset site.Taxonomies "categories" }}
   {{ if not (eq (len site.Taxonomies.categories) 0) }}

@@ -1,0 +1,24 @@
+{{ define "main" }}
+
+<div class="pr-lg-5 pr-4 py-4">
+  {{ if .Params.Image }}
+  <img class="img-fluid w-100 mb-4" src="{{ .Params.image | absURL }}" alt="{{ .Site.Params.author }}">
+  {{ end }}
+  <h1 class="mb-4">{{ .Title }}</h1>
+  <div class="content">{{.Content}}</div>
+</div>
+
+<div class="row">
+  <div class="col-12">
+   {{with .Params.skill_title}} <h2 class="h1 mb-4">{{ . | markdownify }}</h2> {{end}}
+
+    {{ range .Params.skill }}
+    <div class="skill-item">
+      <h3>{{ .name }}</h3>
+      <p>{{ .content | markdownify }}</p>
+    </div>
+    {{ end }}
+  </div>
+</div>
+
+{{ end }}
