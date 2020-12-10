@@ -11,15 +11,17 @@ sections:
   match: "*"
   templates:
   - post
+- type: directory
+  path: content/shop
+  label: Shop
+  create: documents
+  match: "*"
 - type: document
-  path: content/about/_index.md
+  path: content/about.md
   label: About
 - type: document
-  path: content/contact/_index.md
+  path: content/contact.md
   label: Contact
-- type: document
-  path: content/privacy-policy/_index.md
-  label: Privacy Policy
 - type: document
   path: config.toml
   label: Configuration
