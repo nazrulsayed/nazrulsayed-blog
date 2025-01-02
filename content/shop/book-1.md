@@ -1,6 +1,6 @@
 ---
-title: আবুল মনসুর আহমদের শ্রেষ্ঠ গল্প
-image: "images/book.png"
+book_link: '#'
 description: This is meta description.
-book_link: "#"
+image: images/book.png
+title: আবুল মনসুর আহমদের শ্রেষ্ঠ গল্প
 ---

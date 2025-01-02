@@ -1,8 +1,6 @@
 ---
-title: "Lets Contact Us"
-layout: "contact"
-# meta description
-description: "this is meta description"
-# save as draft
+description: this is meta description
 draft: false
+layout: contact
+title: Lets Contact Us
 ---
