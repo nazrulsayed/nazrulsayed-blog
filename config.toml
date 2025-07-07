@@ -25,7 +25,7 @@ weight = 5
 author = "Themefisher"
 bio = "নজরুল সৈয়দ"
 contact_form_action = "https://formspree.io/nazruuul.id@gmail.com"
-copyright = "Designed By [Themefisher](https://themefisher.com/) Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Designed By [Themefisher](https://themefisher.com/) Developed By [Zeon Studio](https://zeon.studio/)"
 description = "This is meta description"
 portrait = "/images/author.png"
 [[params.plugins.css]]
